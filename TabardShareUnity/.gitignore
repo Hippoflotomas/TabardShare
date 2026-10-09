@@ -84,3 +84,6 @@ crashlytics-build.properties
 
 # AssetBundles (manual copy these)
 /[Aa]ssetBundles*
+
+# Built asset bundles (the copy the mod embeds lives in TabardShare/Assets)
+/[Aa]ssetBundles/
