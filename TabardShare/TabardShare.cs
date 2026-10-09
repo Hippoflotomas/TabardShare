@@ -16,7 +16,7 @@ namespace TabardShare
     {
         public const string PluginGUID = "com.hippotech.tabardshare";
         public const string PluginName = "TabardShare";
-        public const string PluginVersion = "0.1.0";
+        public const string PluginVersion = "1.0.0";
 
         /// <summary>Every tabard item's prefab name starts with this.</summary>
         internal const string ItemPrefabPrefix = "TabardShare_";
@@ -32,7 +32,7 @@ namespace TabardShare
         {
             Jotunn.Logger.LogInfo("TabardShare has landed");
 
-            testTabardCraftable = Config.Bind("Testing", "CraftableTestTabard", true,
+            testTabardCraftable = Config.Bind("Testing", "CraftableTestTabard", false,
                 "Make the built-in Test Tabard (UV layout: blue front, red back) craftable at the workbench for 1 Wood. " +
                 "Existing test tabards keep working either way.");
 

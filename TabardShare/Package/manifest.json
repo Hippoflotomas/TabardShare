@@ -1,10 +1,10 @@
-﻿{
+{
   "name": "TabardShare",
-  "description": "",
-  "version_number": "0.0.1",
-  "website_url": "",
+  "description": "Wear a custom tabard in its own equipment slot. Designs come from zip packs you share with friends; missing packs show a placeholder instead of losing tabards.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Hippoflotomas/TabardShare",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2333",
-    "ValheimModding-Jotunn-2.26.1"
+    "ValheimModding-Jotunn-2.30.2"
   ]
 }

@@ -373,3 +373,7 @@ Environment.props
 
 # not the generated dll for thunderstore
 */Package/plugins/*
+
+# Release packages (built by scripts/publish.ps1)
+publishables/*
+!publishables/README.md
