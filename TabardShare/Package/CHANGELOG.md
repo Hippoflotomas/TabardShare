@@ -1,3 +1,7 @@
+## Version 1.1.0
+- Better fit: the tabard's shape has been adjusted to cut down on armour poking through it.
+- Existing TabardPacks work unchanged - the pattern layout is exactly the same as 1.0.0.
+
 ## Version 1.0.0
 First public release.
 - A wearable tabard with its own model, worn over chest armour and under belts, straps and pauldrons. It has its own equipment slot, so it doesn't replace your cape, chest or utility item.

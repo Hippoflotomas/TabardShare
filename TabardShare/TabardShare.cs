@@ -16,7 +16,7 @@ namespace TabardShare
     {
         public const string PluginGUID = "com.hippotech.tabardshare";
         public const string PluginName = "TabardShare";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.1.0";
 
         /// <summary>Every tabard item's prefab name starts with this.</summary>
         internal const string ItemPrefabPrefix = "TabardShare_";
